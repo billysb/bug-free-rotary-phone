@@ -1,2 +1,2 @@
 # bug-free-rotary-phone
-todo
+Please list issues either on here or the Discord. Thanks -Billy
